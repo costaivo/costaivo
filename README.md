@@ -1,4 +1,4 @@
-### Ola Senior 👋
+### Hey  Buddy! 👋
 
 ![Costa Ivo's Github Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=costaivo&layout=compact&theme=radical)
 
