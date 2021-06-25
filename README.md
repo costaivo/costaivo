@@ -4,8 +4,8 @@
 
 ![Costa Ivo's Github Stats](https://github-readme-stats.vercel.app/api?username=costaivo&show_icons=true&theme=radical)
 
-<!-- 
+
 [![Costa Ivo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=costaivo&theme=radical)](https://github.com/costaivo/github-readme-stats)
--->
+
 
 
